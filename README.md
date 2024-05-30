@@ -1,4 +1,5 @@
 Project Title: Data Analysis of Walmart Sales Data
+
 Objective:
 To analyze Walmart's sales data to gain insights into customer behavior, product performance, and sales trends, aiding in informed business decision-making.
 
